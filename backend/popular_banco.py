@@ -6,8 +6,8 @@ from pymongo import MongoClient
 # Configurações
 MONGO_URI = "mongodb://localhost:27017"  # ou sua URI do Atlas
 PONTOS_PATH = "pontos.json"
-NUM_USUARIOS = 20  # total de usuários simulados
-VOTOS_POR_USUARIO = 5  # número de praias que cada usuário vota
+NUM_USUARIOS = 100  # total de usuários simulados
+VOTOS_POR_USUARIO = 10  # número de praias que cada usuário vota
 
 CRITERIOS = ["limpeza", "acessibilidade", "infraestrutura", "seguranca", "tranquilidade"]
 

@@ -17,27 +17,21 @@
             -43.136078
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
-            "temperature_2m": 27.5,
+            "timestamp": "2025-12-14T21:00",
+            "temperature_2m": 27.3,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 69,
-            "apparent_temperature": 31.5,
-            "wind_speed_10m": 3.8,
-            "wind_direction_10m": 107,
+            "relative_humidity_2m": 70,
+            "apparent_temperature": 31.6,
+            "wind_speed_10m": 2.1,
+            "wind_direction_10m": 149,
             "uv_index": 0.0,
             "wave_height": 0.48,
-            "wave_period": 9.35,
-            "weather_code": 2,
+            "wave_period": 9.3,
+            "weather_code": 3,
             "choveu_8_horas": true,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.5,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.3,
@@ -175,6 +169,12 @@
                     "temperatura": 28.9,
                     "precipitacao_prob": 10,
                     "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.5,
+                    "precipitacao_prob": 3,
+                    "weather_code": 3
                 }
             ],
             "balneabilidade": true
@@ -205,27 +205,21 @@
             -43.130129
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
-            "temperature_2m": 27.3,
+            "timestamp": "2025-12-14T21:00",
+            "temperature_2m": 27.1,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 69,
-            "apparent_temperature": 31.2,
-            "wind_speed_10m": 3.8,
-            "wind_direction_10m": 107,
+            "relative_humidity_2m": 70,
+            "apparent_temperature": 31.3,
+            "wind_speed_10m": 2.1,
+            "wind_direction_10m": 149,
             "uv_index": 0.0,
             "wave_height": 0.48,
-            "wave_period": 9.35,
-            "weather_code": 2,
+            "wave_period": 9.3,
+            "weather_code": 3,
             "choveu_8_horas": true,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.3,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.1,
@@ -363,6 +357,12 @@
                     "temperatura": 28.7,
                     "precipitacao_prob": 10,
                     "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.3,
+                    "precipitacao_prob": 3,
+                    "weather_code": 3
                 }
             ],
             "balneabilidade": true
@@ -393,27 +393,21 @@
             -43.124309
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
-            "temperature_2m": 27.4,
+            "timestamp": "2025-12-14T21:00",
+            "temperature_2m": 27.2,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 69,
-            "apparent_temperature": 31.3,
-            "wind_speed_10m": 3.8,
-            "wind_direction_10m": 107,
+            "relative_humidity_2m": 70,
+            "apparent_temperature": 31.4,
+            "wind_speed_10m": 2.1,
+            "wind_direction_10m": 149,
             "uv_index": 0.0,
             "wave_height": 0.48,
-            "wave_period": 9.35,
-            "weather_code": 2,
+            "wave_period": 9.3,
+            "weather_code": 3,
             "choveu_8_horas": true,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.4,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.2,
@@ -551,6 +545,12 @@
                     "temperatura": 28.8,
                     "precipitacao_prob": 10,
                     "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.4,
+                    "precipitacao_prob": 3,
+                    "weather_code": 3
                 }
             ],
             "balneabilidade": true
@@ -581,27 +581,21 @@
             -43.12123
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
-            "temperature_2m": 27.5,
+            "timestamp": "2025-12-14T21:00",
+            "temperature_2m": 27.3,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 69,
-            "apparent_temperature": 31.5,
-            "wind_speed_10m": 3.8,
-            "wind_direction_10m": 107,
+            "relative_humidity_2m": 70,
+            "apparent_temperature": 31.6,
+            "wind_speed_10m": 2.1,
+            "wind_direction_10m": 149,
             "uv_index": 0.0,
             "wave_height": 0.48,
-            "wave_period": 9.35,
-            "weather_code": 2,
+            "wave_period": 9.3,
+            "weather_code": 3,
             "choveu_8_horas": true,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.5,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.3,
@@ -739,6 +733,12 @@
                     "temperatura": 28.9,
                     "precipitacao_prob": 10,
                     "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.5,
+                    "precipitacao_prob": 3,
+                    "weather_code": 3
                 }
             ],
             "balneabilidade": true
@@ -769,27 +769,21 @@
             -43.117841
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
-            "temperature_2m": 27.4,
+            "timestamp": "2025-12-14T21:00",
+            "temperature_2m": 27.3,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 69,
-            "apparent_temperature": 31.3,
-            "wind_speed_10m": 3.8,
-            "wind_direction_10m": 107,
+            "relative_humidity_2m": 70,
+            "apparent_temperature": 31.5,
+            "wind_speed_10m": 2.1,
+            "wind_direction_10m": 149,
             "uv_index": 0.0,
             "wave_height": 0.48,
-            "wave_period": 9.35,
-            "weather_code": 2,
+            "wave_period": 9.3,
+            "weather_code": 3,
             "choveu_8_horas": true,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.4,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.3,
@@ -927,6 +921,12 @@
                     "temperatura": 28.8,
                     "precipitacao_prob": 10,
                     "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.5,
+                    "precipitacao_prob": 3,
+                    "weather_code": 3
                 }
             ],
             "balneabilidade": true
@@ -957,27 +957,21 @@
             -43.116207
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
-            "temperature_2m": 27.5,
+            "timestamp": "2025-12-14T21:00",
+            "temperature_2m": 27.3,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 69,
-            "apparent_temperature": 31.4,
-            "wind_speed_10m": 3.8,
-            "wind_direction_10m": 107,
+            "relative_humidity_2m": 70,
+            "apparent_temperature": 31.6,
+            "wind_speed_10m": 2.1,
+            "wind_direction_10m": 149,
             "uv_index": 0.0,
             "wave_height": 0.48,
-            "wave_period": 9.35,
-            "weather_code": 2,
+            "wave_period": 9.3,
+            "weather_code": 3,
             "choveu_8_horas": true,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.5,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.3,
@@ -1114,6 +1108,12 @@
                     "hora": "2025-12-15T19:00",
                     "temperatura": 28.9,
                     "precipitacao_prob": 10,
+                    "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.5,
+                    "precipitacao_prob": 3,
                     "weather_code": 3
                 }
             ],
@@ -1145,27 +1145,21 @@
             -43.111768
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
+            "timestamp": "2025-12-14T21:00",
             "temperature_2m": 27.3,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 73,
-            "apparent_temperature": 31.7,
-            "wind_speed_10m": 3.4,
-            "wind_direction_10m": 148,
+            "relative_humidity_2m": 74,
+            "apparent_temperature": 31.8,
+            "wind_speed_10m": 3.2,
+            "wind_direction_10m": 153,
             "uv_index": 0.0,
             "wave_height": 0.48,
-            "wave_period": 9.35,
-            "weather_code": 2,
+            "wave_period": 9.3,
+            "weather_code": 3,
             "choveu_8_horas": false,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.3,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.3,
@@ -1302,6 +1296,12 @@
                     "hora": "2025-12-15T19:00",
                     "temperatura": 28.9,
                     "precipitacao_prob": 10,
+                    "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.7,
+                    "precipitacao_prob": 3,
                     "weather_code": 3
                 }
             ],
@@ -1333,27 +1333,21 @@
             -43.109953
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
+            "timestamp": "2025-12-14T21:00",
             "temperature_2m": 27.3,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 73,
-            "apparent_temperature": 31.7,
-            "wind_speed_10m": 3.4,
-            "wind_direction_10m": 148,
+            "relative_humidity_2m": 74,
+            "apparent_temperature": 31.8,
+            "wind_speed_10m": 3.2,
+            "wind_direction_10m": 153,
             "uv_index": 0.0,
             "wave_height": 0.48,
-            "wave_period": 9.35,
-            "weather_code": 2,
+            "wave_period": 9.3,
+            "weather_code": 3,
             "choveu_8_horas": false,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.3,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.3,
@@ -1490,6 +1484,12 @@
                     "hora": "2025-12-15T19:00",
                     "temperatura": 28.9,
                     "precipitacao_prob": 10,
+                    "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.7,
+                    "precipitacao_prob": 3,
                     "weather_code": 3
                 }
             ],
@@ -1521,27 +1521,21 @@
             -43.095355
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
-            "temperature_2m": 27.3,
+            "timestamp": "2025-12-14T21:00",
+            "temperature_2m": 27.2,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 73,
-            "apparent_temperature": 31.7,
-            "wind_speed_10m": 3.4,
-            "wind_direction_10m": 148,
+            "relative_humidity_2m": 74,
+            "apparent_temperature": 31.8,
+            "wind_speed_10m": 3.2,
+            "wind_direction_10m": 153,
             "uv_index": 0.0,
             "wave_height": 0.48,
-            "wave_period": 9.35,
-            "weather_code": 2,
+            "wave_period": 9.3,
+            "weather_code": 3,
             "choveu_8_horas": false,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.3,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.2,
@@ -1678,6 +1672,12 @@
                     "hora": "2025-12-15T19:00",
                     "temperatura": 28.8,
                     "precipitacao_prob": 10,
+                    "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.6,
+                    "precipitacao_prob": 3,
                     "weather_code": 3
                 }
             ],
@@ -1709,27 +1709,21 @@
             -43.094823
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
+            "timestamp": "2025-12-14T21:00",
             "temperature_2m": 27.3,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 73,
-            "apparent_temperature": 31.7,
-            "wind_speed_10m": 3.4,
-            "wind_direction_10m": 148,
+            "relative_humidity_2m": 74,
+            "apparent_temperature": 31.8,
+            "wind_speed_10m": 3.2,
+            "wind_direction_10m": 153,
             "uv_index": 0.0,
-            "wave_height": 0.76,
-            "wave_period": 9.1,
-            "weather_code": 2,
+            "wave_height": 0.74,
+            "wave_period": 9.05,
+            "weather_code": 3,
             "choveu_8_horas": false,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.3,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.3,
@@ -1866,6 +1860,12 @@
                     "hora": "2025-12-15T19:00",
                     "temperatura": 28.9,
                     "precipitacao_prob": 10,
+                    "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.7,
+                    "precipitacao_prob": 3,
                     "weather_code": 3
                 }
             ],
@@ -1897,27 +1897,21 @@
             -43.094515
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
+            "timestamp": "2025-12-14T21:00",
             "temperature_2m": 27.3,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 73,
-            "apparent_temperature": 31.7,
-            "wind_speed_10m": 3.4,
-            "wind_direction_10m": 148,
+            "relative_humidity_2m": 74,
+            "apparent_temperature": 31.8,
+            "wind_speed_10m": 3.2,
+            "wind_direction_10m": 153,
             "uv_index": 0.0,
-            "wave_height": 0.76,
-            "wave_period": 9.1,
-            "weather_code": 2,
+            "wave_height": 0.74,
+            "wave_period": 9.05,
+            "weather_code": 3,
             "choveu_8_horas": false,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.3,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.3,
@@ -2054,6 +2048,12 @@
                     "hora": "2025-12-15T19:00",
                     "temperatura": 28.9,
                     "precipitacao_prob": 10,
+                    "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.7,
+                    "precipitacao_prob": 3,
                     "weather_code": 3
                 }
             ],
@@ -2085,27 +2085,21 @@
             -43.095071
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
+            "timestamp": "2025-12-14T21:00",
             "temperature_2m": 27.3,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 73,
-            "apparent_temperature": 31.7,
-            "wind_speed_10m": 3.4,
-            "wind_direction_10m": 148,
+            "relative_humidity_2m": 74,
+            "apparent_temperature": 31.8,
+            "wind_speed_10m": 3.2,
+            "wind_direction_10m": 153,
             "uv_index": 0.0,
-            "wave_height": 0.76,
-            "wave_period": 9.1,
-            "weather_code": 2,
+            "wave_height": 0.74,
+            "wave_period": 9.05,
+            "weather_code": 3,
             "choveu_8_horas": false,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.3,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.3,
@@ -2242,6 +2236,12 @@
                     "hora": "2025-12-15T19:00",
                     "temperatura": 28.9,
                     "precipitacao_prob": 10,
+                    "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.7,
+                    "precipitacao_prob": 3,
                     "weather_code": 3
                 }
             ],
@@ -2273,27 +2273,21 @@
             -43.098221
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
+            "timestamp": "2025-12-14T21:00",
             "temperature_2m": 27.3,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 73,
-            "apparent_temperature": 31.7,
-            "wind_speed_10m": 3.4,
-            "wind_direction_10m": 148,
+            "relative_humidity_2m": 74,
+            "apparent_temperature": 31.8,
+            "wind_speed_10m": 3.2,
+            "wind_direction_10m": 153,
             "uv_index": 0.0,
-            "wave_height": 0.76,
-            "wave_period": 9.1,
-            "weather_code": 2,
+            "wave_height": 0.74,
+            "wave_period": 9.05,
+            "weather_code": 3,
             "choveu_8_horas": false,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.3,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.3,
@@ -2430,6 +2424,12 @@
                     "hora": "2025-12-15T19:00",
                     "temperatura": 28.9,
                     "precipitacao_prob": 10,
+                    "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.7,
+                    "precipitacao_prob": 3,
                     "weather_code": 3
                 }
             ],
@@ -2461,27 +2461,21 @@
             -43.105534
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
+            "timestamp": "2025-12-14T21:00",
             "temperature_2m": 27.3,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 73,
-            "apparent_temperature": 31.7,
-            "wind_speed_10m": 3.4,
-            "wind_direction_10m": 148,
+            "relative_humidity_2m": 74,
+            "apparent_temperature": 31.8,
+            "wind_speed_10m": 3.2,
+            "wind_direction_10m": 153,
             "uv_index": 0.0,
-            "wave_height": 0.76,
-            "wave_period": 9.1,
-            "weather_code": 2,
+            "wave_height": 0.74,
+            "wave_period": 9.05,
+            "weather_code": 3,
             "choveu_8_horas": false,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.3,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.3,
@@ -2619,6 +2613,12 @@
                     "temperatura": 28.9,
                     "precipitacao_prob": 10,
                     "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.7,
+                    "precipitacao_prob": 3,
+                    "weather_code": 3
                 }
             ],
             "balneabilidade": false
@@ -2649,27 +2649,21 @@
             -43.113049
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
-            "temperature_2m": 27.3,
+            "timestamp": "2025-12-14T21:00",
+            "temperature_2m": 27.2,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 73,
-            "apparent_temperature": 31.7,
-            "wind_speed_10m": 3.4,
-            "wind_direction_10m": 148,
+            "relative_humidity_2m": 74,
+            "apparent_temperature": 31.8,
+            "wind_speed_10m": 3.2,
+            "wind_direction_10m": 153,
             "uv_index": 0.0,
-            "wave_height": 0.76,
-            "wave_period": 9.1,
-            "weather_code": 2,
+            "wave_height": 0.74,
+            "wave_period": 9.05,
+            "weather_code": 3,
             "choveu_8_horas": false,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.3,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.2,
@@ -2807,6 +2801,12 @@
                     "temperatura": 28.8,
                     "precipitacao_prob": 10,
                     "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.6,
+                    "precipitacao_prob": 3,
+                    "weather_code": 3
                 }
             ],
             "balneabilidade": false
@@ -2837,27 +2837,21 @@
             -43.116554
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
-            "temperature_2m": 27.5,
+            "timestamp": "2025-12-14T21:00",
+            "temperature_2m": 27.3,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 69,
-            "apparent_temperature": 31.5,
-            "wind_speed_10m": 3.8,
-            "wind_direction_10m": 107,
+            "relative_humidity_2m": 70,
+            "apparent_temperature": 31.6,
+            "wind_speed_10m": 2.1,
+            "wind_direction_10m": 149,
             "uv_index": 0.0,
-            "wave_height": 0.76,
-            "wave_period": 9.1,
-            "weather_code": 2,
+            "wave_height": 0.74,
+            "wave_period": 9.05,
+            "weather_code": 3,
             "choveu_8_horas": true,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.5,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.3,
@@ -2994,6 +2988,12 @@
                     "hora": "2025-12-15T19:00",
                     "temperatura": 28.9,
                     "precipitacao_prob": 10,
+                    "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.5,
+                    "precipitacao_prob": 3,
                     "weather_code": 3
                 }
             ],
@@ -3025,27 +3025,21 @@
             -43.122534
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
-            "temperature_2m": 27.5,
+            "timestamp": "2025-12-14T21:00",
+            "temperature_2m": 27.3,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 69,
-            "apparent_temperature": 31.5,
-            "wind_speed_10m": 3.8,
-            "wind_direction_10m": 107,
+            "relative_humidity_2m": 70,
+            "apparent_temperature": 31.6,
+            "wind_speed_10m": 2.1,
+            "wind_direction_10m": 149,
             "uv_index": 0.0,
-            "wave_height": 0.76,
-            "wave_period": 9.1,
-            "weather_code": 2,
+            "wave_height": 0.74,
+            "wave_period": 9.05,
+            "weather_code": 3,
             "choveu_8_horas": true,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.5,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.3,
@@ -3182,6 +3176,12 @@
                     "hora": "2025-12-15T19:00",
                     "temperatura": 28.9,
                     "precipitacao_prob": 10,
+                    "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.5,
+                    "precipitacao_prob": 3,
                     "weather_code": 3
                 }
             ],
@@ -3213,27 +3213,21 @@
             -43.12268
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
-            "temperature_2m": 27.5,
+            "timestamp": "2025-12-14T21:00",
+            "temperature_2m": 27.3,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 69,
-            "apparent_temperature": 31.5,
-            "wind_speed_10m": 3.8,
-            "wind_direction_10m": 107,
+            "relative_humidity_2m": 70,
+            "apparent_temperature": 31.6,
+            "wind_speed_10m": 2.1,
+            "wind_direction_10m": 149,
             "uv_index": 0.0,
-            "wave_height": 0.76,
-            "wave_period": 9.1,
-            "weather_code": 2,
+            "wave_height": 0.74,
+            "wave_period": 9.05,
+            "weather_code": 3,
             "choveu_8_horas": true,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.5,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.3,
@@ -3370,6 +3364,12 @@
                     "hora": "2025-12-15T19:00",
                     "temperatura": 28.9,
                     "precipitacao_prob": 10,
+                    "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.5,
+                    "precipitacao_prob": 3,
                     "weather_code": 3
                 }
             ],
@@ -3403,27 +3403,21 @@
             -43.098123
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
+            "timestamp": "2025-12-14T21:00",
             "temperature_2m": 27.3,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 73,
-            "apparent_temperature": 31.7,
-            "wind_speed_10m": 3.4,
-            "wind_direction_10m": 148,
+            "relative_humidity_2m": 74,
+            "apparent_temperature": 31.8,
+            "wind_speed_10m": 3.2,
+            "wind_direction_10m": 153,
             "uv_index": 0.0,
-            "wave_height": 0.76,
-            "wave_period": 9.1,
-            "weather_code": 2,
+            "wave_height": 0.74,
+            "wave_period": 9.05,
+            "weather_code": 3,
             "choveu_8_horas": false,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.3,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.3,
@@ -3560,6 +3554,12 @@
                     "hora": "2025-12-15T19:00",
                     "temperatura": 28.9,
                     "precipitacao_prob": 10,
+                    "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.7,
+                    "precipitacao_prob": 3,
                     "weather_code": 3
                 }
             ],
@@ -3591,27 +3591,21 @@
             -43.095542
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
+            "timestamp": "2025-12-14T21:00",
             "temperature_2m": 27.3,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 73,
-            "apparent_temperature": 31.7,
-            "wind_speed_10m": 3.4,
-            "wind_direction_10m": 148,
+            "relative_humidity_2m": 74,
+            "apparent_temperature": 31.8,
+            "wind_speed_10m": 3.2,
+            "wind_direction_10m": 153,
             "uv_index": 0.0,
-            "wave_height": 0.76,
-            "wave_period": 9.1,
-            "weather_code": 2,
+            "wave_height": 0.74,
+            "wave_period": 9.05,
+            "weather_code": 3,
             "choveu_8_horas": false,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.3,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.3,
@@ -3748,6 +3742,12 @@
                     "hora": "2025-12-15T19:00",
                     "temperatura": 28.9,
                     "precipitacao_prob": 10,
+                    "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.7,
+                    "precipitacao_prob": 3,
                     "weather_code": 3
                 }
             ],
@@ -3779,27 +3779,21 @@
             -43.087731
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
+            "timestamp": "2025-12-14T21:00",
             "temperature_2m": 27.3,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 73,
-            "apparent_temperature": 31.7,
-            "wind_speed_10m": 3.4,
-            "wind_direction_10m": 148,
+            "relative_humidity_2m": 74,
+            "apparent_temperature": 31.8,
+            "wind_speed_10m": 3.2,
+            "wind_direction_10m": 153,
             "uv_index": 0.0,
-            "wave_height": 0.76,
-            "wave_period": 9.1,
-            "weather_code": 2,
+            "wave_height": 0.74,
+            "wave_period": 9.05,
+            "weather_code": 3,
             "choveu_8_horas": false,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.3,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.3,
@@ -3936,6 +3930,12 @@
                     "hora": "2025-12-15T19:00",
                     "temperatura": 28.9,
                     "precipitacao_prob": 10,
+                    "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.7,
+                    "precipitacao_prob": 3,
                     "weather_code": 3
                 }
             ],
@@ -3967,27 +3967,21 @@
             -43.075238
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
+            "timestamp": "2025-12-14T21:00",
             "temperature_2m": 27.3,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 73,
-            "apparent_temperature": 31.7,
-            "wind_speed_10m": 3.4,
-            "wind_direction_10m": 148,
+            "relative_humidity_2m": 74,
+            "apparent_temperature": 31.8,
+            "wind_speed_10m": 3.2,
+            "wind_direction_10m": 153,
             "uv_index": 0.0,
-            "wave_height": 0.76,
-            "wave_period": 9.1,
-            "weather_code": 2,
+            "wave_height": 0.74,
+            "wave_period": 9.05,
+            "weather_code": 3,
             "choveu_8_horas": false,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.3,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.3,
@@ -4125,6 +4119,12 @@
                     "temperatura": 28.9,
                     "precipitacao_prob": 10,
                     "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.7,
+                    "precipitacao_prob": 3,
+                    "weather_code": 3
                 }
             ],
             "balneabilidade": true
@@ -4155,27 +4155,21 @@
             -43.069852
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
-            "temperature_2m": 27.2,
+            "timestamp": "2025-12-14T21:00",
+            "temperature_2m": 27.1,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 73,
-            "apparent_temperature": 31.5,
-            "wind_speed_10m": 3.4,
-            "wind_direction_10m": 148,
+            "relative_humidity_2m": 74,
+            "apparent_temperature": 31.6,
+            "wind_speed_10m": 3.2,
+            "wind_direction_10m": 153,
             "uv_index": 0.0,
-            "wave_height": 0.76,
-            "wave_period": 9.1,
-            "weather_code": 2,
+            "wave_height": 0.74,
+            "wave_period": 9.05,
+            "weather_code": 3,
             "choveu_8_horas": false,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.2,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.1,
@@ -4313,6 +4307,12 @@
                     "temperatura": 28.7,
                     "precipitacao_prob": 10,
                     "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.5,
+                    "precipitacao_prob": 3,
+                    "weather_code": 3
                 }
             ],
             "balneabilidade": true
@@ -4343,27 +4343,21 @@
             -43.05776
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
+            "timestamp": "2025-12-14T21:00",
             "temperature_2m": 27.2,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 73,
+            "relative_humidity_2m": 74,
             "apparent_temperature": 31.7,
-            "wind_speed_10m": 3.4,
-            "wind_direction_10m": 148,
+            "wind_speed_10m": 3.2,
+            "wind_direction_10m": 153,
             "uv_index": 0.0,
-            "wave_height": 0.76,
-            "wave_period": 9.1,
-            "weather_code": 2,
+            "wave_height": 0.74,
+            "wave_period": 9.05,
+            "weather_code": 3,
             "choveu_8_horas": false,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.2,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.2,
@@ -4501,6 +4495,12 @@
                     "temperatura": 28.8,
                     "precipitacao_prob": 10,
                     "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.6,
+                    "precipitacao_prob": 3,
+                    "weather_code": 3
                 }
             ],
             "balneabilidade": true
@@ -4531,27 +4531,21 @@
             -43.048199
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
+            "timestamp": "2025-12-14T21:00",
             "temperature_2m": 27.3,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 73,
-            "apparent_temperature": 31.7,
-            "wind_speed_10m": 3.4,
-            "wind_direction_10m": 148,
+            "relative_humidity_2m": 74,
+            "apparent_temperature": 31.8,
+            "wind_speed_10m": 3.2,
+            "wind_direction_10m": 153,
             "uv_index": 0.0,
-            "wave_height": 0.94,
-            "wave_period": 8.8,
-            "weather_code": 2,
+            "wave_height": 0.92,
+            "wave_period": 8.75,
+            "weather_code": 3,
             "choveu_8_horas": false,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.3,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.3,
@@ -4688,6 +4682,12 @@
                     "hora": "2025-12-15T19:00",
                     "temperatura": 28.9,
                     "precipitacao_prob": 10,
+                    "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.7,
+                    "precipitacao_prob": 3,
                     "weather_code": 3
                 }
             ],
@@ -4719,27 +4719,21 @@
             -43.046871
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
+            "timestamp": "2025-12-14T21:00",
             "temperature_2m": 27.3,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 73,
-            "apparent_temperature": 31.7,
-            "wind_speed_10m": 3.4,
-            "wind_direction_10m": 148,
+            "relative_humidity_2m": 74,
+            "apparent_temperature": 31.8,
+            "wind_speed_10m": 3.2,
+            "wind_direction_10m": 153,
             "uv_index": 0.0,
-            "wave_height": 0.94,
-            "wave_period": 8.8,
-            "weather_code": 2,
+            "wave_height": 0.92,
+            "wave_period": 8.75,
+            "weather_code": 3,
             "choveu_8_horas": false,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.3,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.3,
@@ -4876,6 +4870,12 @@
                     "hora": "2025-12-15T19:00",
                     "temperatura": 28.9,
                     "precipitacao_prob": 10,
+                    "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.7,
+                    "precipitacao_prob": 3,
                     "weather_code": 3
                 }
             ],
@@ -4907,27 +4907,21 @@
             -43.045586
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
+            "timestamp": "2025-12-14T21:00",
             "temperature_2m": 27.3,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 73,
-            "apparent_temperature": 31.7,
-            "wind_speed_10m": 3.4,
-            "wind_direction_10m": 148,
+            "relative_humidity_2m": 74,
+            "apparent_temperature": 31.8,
+            "wind_speed_10m": 3.2,
+            "wind_direction_10m": 153,
             "uv_index": 0.0,
-            "wave_height": 0.94,
-            "wave_period": 8.8,
-            "weather_code": 2,
+            "wave_height": 0.92,
+            "wave_period": 8.75,
+            "weather_code": 3,
             "choveu_8_horas": false,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.3,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.3,
@@ -5065,6 +5059,12 @@
                     "temperatura": 28.9,
                     "precipitacao_prob": 10,
                     "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.7,
+                    "precipitacao_prob": 3,
+                    "weather_code": 3
                 }
             ],
             "balneabilidade": true
@@ -5095,27 +5095,21 @@
             -43.036233
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
-            "temperature_2m": 27.3,
+            "timestamp": "2025-12-14T21:00",
+            "temperature_2m": 27.2,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 73,
-            "apparent_temperature": 31.7,
-            "wind_speed_10m": 3.4,
-            "wind_direction_10m": 148,
+            "relative_humidity_2m": 74,
+            "apparent_temperature": 31.8,
+            "wind_speed_10m": 3.2,
+            "wind_direction_10m": 153,
             "uv_index": 0.0,
-            "wave_height": 0.94,
-            "wave_period": 8.8,
-            "weather_code": 2,
+            "wave_height": 0.92,
+            "wave_period": 8.75,
+            "weather_code": 3,
             "choveu_8_horas": false,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.3,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.2,
@@ -5252,6 +5246,12 @@
                     "hora": "2025-12-15T19:00",
                     "temperatura": 28.8,
                     "precipitacao_prob": 10,
+                    "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.6,
+                    "precipitacao_prob": 3,
                     "weather_code": 3
                 }
             ],
@@ -5283,27 +5283,21 @@
             -43.030642
         ],
         "leitura_atual": {
-            "timestamp": "2025-12-14T20:00",
-            "temperature_2m": 27.3,
+            "timestamp": "2025-12-14T21:00",
+            "temperature_2m": 27.2,
             "precipitation": 0.0,
-            "precipitation_probability": 0,
+            "precipitation_probability": 10,
             "rain": 0.0,
-            "relative_humidity_2m": 73,
-            "apparent_temperature": 31.7,
-            "wind_speed_10m": 3.4,
-            "wind_direction_10m": 148,
+            "relative_humidity_2m": 74,
+            "apparent_temperature": 31.8,
+            "wind_speed_10m": 3.2,
+            "wind_direction_10m": 153,
             "uv_index": 0.0,
-            "wave_height": 0.94,
-            "wave_period": 8.8,
-            "weather_code": 2,
+            "wave_height": 0.92,
+            "wave_period": 8.75,
+            "weather_code": 3,
             "choveu_8_horas": false,
             "previsao_24h": [
-                {
-                    "hora": "2025-12-14T20:00",
-                    "temperatura": 27.3,
-                    "precipitacao_prob": 0,
-                    "weather_code": 2
-                },
                 {
                     "hora": "2025-12-14T21:00",
                     "temperatura": 27.2,
@@ -5440,6 +5434,12 @@
                     "hora": "2025-12-15T19:00",
                     "temperatura": 28.8,
                     "precipitacao_prob": 10,
+                    "weather_code": 3
+                },
+                {
+                    "hora": "2025-12-15T20:00",
+                    "temperatura": 28.6,
+                    "precipitacao_prob": 3,
                     "weather_code": 3
                 }
             ],
