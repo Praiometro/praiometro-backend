@@ -3,9 +3,9 @@ Backend para o app Praiômetro
 
 ## Back-end
 
-1. Na máquina que deseja usar como servidor, rode o script `start_mongo.bat` (Windows) ou `start_mongo.sh` (Linux);
+1. Na máquina que deseja usar como servidor, rode o script `start_mongo.sh` (Linux) ou `start_mongo.bat` (Windows);
 2. Inicie o virtual environment com `pyton -m venv venv`;
-3. Ative o ambiente virtual. Linux: `source venv/bin/activate` Windows: `venv\Scripts\activate`;
+3. Ative o ambiente virtual. Use `source venv/bin/activate` (Linux) ou `venv\Scripts\activate` (Windows);
 4. Instale as dependências com `pip install -r requirements.txt`;
 5. Para popular o banco de avaliações, execute `pyton popular_banco.py`. Não é necessário fazer isso novamente;
 6. Rode `api_praiometro.py`;
